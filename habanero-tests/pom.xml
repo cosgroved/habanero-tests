@@ -8,7 +8,7 @@
 	<name>habanero-tests</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<hjlib.version>0.1.12-SNAPSHOT</hjlib.version>
+		<hjlib.version>0.1.14-SNAPSHOT</hjlib.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
